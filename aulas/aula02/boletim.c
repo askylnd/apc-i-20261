@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main () {
+igcc () {
     char tecla_pressionada;
     int numero_inteiro;
     float numero_com_seis_casas;
